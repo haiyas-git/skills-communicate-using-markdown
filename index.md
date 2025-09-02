@@ -6,4 +6,8 @@
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
-![A cute kitten playing with a ball of yarn](https://example.com/kitten.jpg)
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
